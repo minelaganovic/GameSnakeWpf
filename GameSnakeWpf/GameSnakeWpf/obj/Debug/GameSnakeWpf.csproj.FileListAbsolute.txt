@@ -1,0 +1,15 @@
+C:\Users\Minela\source\repos\GameSnakeWpf\GameSnakeWpf\bin\Debug\GameSnakeWpf.exe.config
+C:\Users\Minela\source\repos\GameSnakeWpf\GameSnakeWpf\bin\Debug\GameSnakeWpf.exe
+C:\Users\Minela\source\repos\GameSnakeWpf\GameSnakeWpf\bin\Debug\GameSnakeWpf.pdb
+C:\Users\Minela\source\repos\GameSnakeWpf\GameSnakeWpf\obj\Debug\GameSnakeWpf.csprojAssemblyReference.cache
+C:\Users\Minela\source\repos\GameSnakeWpf\GameSnakeWpf\obj\Debug\MainWindow.g.cs
+C:\Users\Minela\source\repos\GameSnakeWpf\GameSnakeWpf\obj\Debug\App.g.cs
+C:\Users\Minela\source\repos\GameSnakeWpf\GameSnakeWpf\obj\Debug\GameSnakeWpf_MarkupCompile.cache
+C:\Users\Minela\source\repos\GameSnakeWpf\GameSnakeWpf\obj\Debug\GameSnakeWpf_MarkupCompile.lref
+C:\Users\Minela\source\repos\GameSnakeWpf\GameSnakeWpf\obj\Debug\MainWindow.baml
+C:\Users\Minela\source\repos\GameSnakeWpf\GameSnakeWpf\obj\Debug\GameSnakeWpf.g.resources
+C:\Users\Minela\source\repos\GameSnakeWpf\GameSnakeWpf\obj\Debug\GameSnakeWpf.Properties.Resources.resources
+C:\Users\Minela\source\repos\GameSnakeWpf\GameSnakeWpf\obj\Debug\GameSnakeWpf.csproj.GenerateResource.cache
+C:\Users\Minela\source\repos\GameSnakeWpf\GameSnakeWpf\obj\Debug\GameSnakeWpf.csproj.CoreCompileInputs.cache
+C:\Users\Minela\source\repos\GameSnakeWpf\GameSnakeWpf\obj\Debug\GameSnakeWpf.exe
+C:\Users\Minela\source\repos\GameSnakeWpf\GameSnakeWpf\obj\Debug\GameSnakeWpf.pdb
